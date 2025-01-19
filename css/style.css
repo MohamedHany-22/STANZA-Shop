@@ -67,6 +67,10 @@ body {
     color: black;
   }
 
+.headerimg {
+  background-image:url(images/DSC_5627.jpg);
+}
+
 a {
   color: #007bff;
   text-decoration: none;
